@@ -1,0 +1,24 @@
+{
+  "name": "react-data-mask",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/robianchini/react-data-mask.git"
+  },
+  "keywords": [
+    "react",
+    "mask",
+    "text"
+  ],
+  "author": "Rodrigo Bianchini <rodrigo.bianchinii@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robianchini/react-data-mask/issues"
+  },
+  "homepage": "https://github.com/robianchini/react-data-mask#readme"
+}
